@@ -1,0 +1,9 @@
+export { User, IUser } from './User';
+export { Teacher, ITeacher } from './Teacher';
+export { Student, IStudent } from './Student';
+export { Admission, IAdmission } from './Admission';
+export { Notice, INotice } from './Notice';
+export { Event, IEvent } from './Event';
+export { Gallery, IGallery } from './Gallery';
+export { WebsiteContent, IWebsiteContent } from './WebsiteContent';
+export { Settings, ISettings } from './Settings';
